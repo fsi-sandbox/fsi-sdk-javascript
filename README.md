@@ -1,18 +1,26 @@
-# Innovation Sandbox (Node) [![Build Status](https://travis-ci.org/enyata/innovation-sandbox-node.svg?branch=master)](https://travis-ci.org/enyata/innovation-sandbox-node)
+# Sandbox JavaScript SDK
 
-### Installation
+Welcome to the FSI Sandbox SDK for JavaScript. See the [fsi-sdk topic](https://github.com/topics/fsi-sdk) for other available SDKs
+
+## Installation
 
 ```bash
-$ npm install innovation-sandbox --save
+$ npm install innovation-sandbox
 ```
 
-### Documentation
+OR
 
-[Nibss](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/nibss/README.md)
-[Sterling](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/sterling/README.md)
-[Atlabs](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/atlabs/README.md)
-[Union](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/union/README.md)
-[relianceHMO](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/relianceHMO/README.md)
-[fcmb](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/fcmb/README.md)
-[swift](https://github.com/enyata/innovation-sandbox-node/blob/master/lib/swift/README.md)
+```bash
+$ yarn add innovation-sandbox
+```
+
+## Usage documentation for APIs currently supported by this SDK
+
+*   [Nibss](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/nibss)
+*   [Sterling](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/sterling)
+*   [Atlabs](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/atlabs)
+*   [Union](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/union)
+*   [RelianceHMO](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/relianceHMO)
+*   [FCMB](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/fcmb)
+*   [Swift](https://github.com/fsi-sandbox/fsi-sdk-javascript/tree/main/lib/swift)
 
